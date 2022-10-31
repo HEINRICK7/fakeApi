@@ -1,0 +1,22 @@
+{
+  "pacientes": [
+    {
+      "id": 1,
+      "nome": "Marcelo Castro",
+      "idade": 25,
+      "sexo": "masculino"
+    },
+    {
+      "id": 2,
+      "nome": "Miriam Almeida",
+      "idade": 48,
+      "sexo": "feminino"
+    },
+    {
+      "id": 3,
+      "nome": "Fernanda Melo",
+      "idade": 32,
+      "sexo": "feminino"
+    }
+  ]
+}

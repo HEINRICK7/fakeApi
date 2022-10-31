@@ -4,19 +4,22 @@
       "id": 1,
       "nome": "Marcelo Castro",
       "idade": 25,
-      "sexo": "masculino"
+      "sexo": "masculino",
+      "cpf": "0105670222"
     },
     {
       "id": 2,
       "nome": "Miriam Almeida",
       "idade": 48,
-      "sexo": "feminino"
+      "sexo": "feminino",
+      "cpf": "3105670222"
     },
     {
       "id": 3,
       "nome": "Fernanda Melo",
       "idade": 32,
-      "sexo": "feminino"
+      "sexo": "feminino",
+      "cpf": "5105670222"
     }
   ]
 }

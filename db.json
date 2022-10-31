@@ -2,24 +2,30 @@
   "pacientes": [
     {
       "id": 1,
+      "numero_prontuario": "001",
       "nome": "Marcelo Castro",
-      "idade": 25,
+      "data_nascimento": "07/12/1975",
       "sexo": "masculino",
-      "cpf": "0105670222"
+      "cpf": "0105670222",
+      "procedimento": "Raio-X do tórax"
     },
     {
       "id": 2,
+      "numero_prontuario": "002",
       "nome": "Miriam Almeida",
-      "idade": 48,
+      "data_nascimento": "20/02/1989",
       "sexo": "feminino",
-      "cpf": "3105670222"
+      "cpf": "3105670222",
+      "procedimento": "Raio-X do tórax"
     },
     {
       "id": 3,
+      "numero_prontuario": "003",
       "nome": "Fernanda Melo",
-      "idade": 32,
+      "data_nascimento": "12/12/2000",
       "sexo": "feminino",
-      "cpf": "5105670222"
+      "cpf": "5105670222",
+      "procedimento": "Raio-X do tórax"
     }
   ]
 }

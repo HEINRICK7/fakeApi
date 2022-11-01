@@ -10,7 +10,7 @@
       "procedimento": "Raio-X do tórax",
       "images": [{
         "id": "434343434",
-        "image": "https://unsplash.com/photos/ouyjDk-KdfY",
+        "image": "https://unsplash.com/photos/ouyjDk-KdfY"
       },
       {
         "id": "87875566",
@@ -28,7 +28,8 @@
       "procedimento": "Raio-X do tórax",
       "images": [{
         "id": "434343434",
-        "image": "https://unsplash.com/photos/ouyjDk-KdfY",
+        "image": "https://unsplash.com/photos/ouyjDk-KdfY"
+
       },
       {
         "id": "87875566",
@@ -47,7 +48,7 @@
       "procedimento": "Raio-X do tórax",
       "images": [{
         "id": "434343434",
-        "image": "https://unsplash.com/photos/ouyjDk-KdfY",
+        "image": "https://unsplash.com/photos/ouyjDk-KdfY"
       },
       {
         "id": "87875566",

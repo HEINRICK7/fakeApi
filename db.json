@@ -7,7 +7,16 @@
       "data_nascimento": "07/12/1975",
       "sexo": "masculino",
       "cpf": "0105670222",
-      "procedimento": "Raio-X do tórax"
+      "procedimento": "Raio-X do tórax",
+      "images": [{
+        "id": "434343434",
+        "image": "https://unsplash.com/photos/ouyjDk-KdfY",
+      },
+      {
+        "id": "87875566",
+        "image": "https://unsplash.com/photos/NMZdj2Zu36M"
+      }
+    ]
     },
     {
       "id": 2,
@@ -16,8 +25,18 @@
       "data_nascimento": "20/02/1989",
       "sexo": "feminino",
       "cpf": "3105670222",
-      "procedimento": "Raio-X do tórax"
+      "procedimento": "Raio-X do tórax",
+      "images": [{
+        "id": "434343434",
+        "image": "https://unsplash.com/photos/ouyjDk-KdfY",
+      },
+      {
+        "id": "87875566",
+        "image": "https://unsplash.com/photos/NMZdj2Zu36M"
+      }
+    ]
     },
+    
     {
       "id": 3,
       "numero_prontuario": "003",
@@ -25,7 +44,16 @@
       "data_nascimento": "12/12/2000",
       "sexo": "feminino",
       "cpf": "5105670222",
-      "procedimento": "Raio-X do tórax"
+      "procedimento": "Raio-X do tórax",
+      "images": [{
+        "id": "434343434",
+        "image": "https://unsplash.com/photos/ouyjDk-KdfY",
+      },
+      {
+        "id": "87875566",
+        "image": "https://unsplash.com/photos/NMZdj2Zu36M"
+      }
+    ]
     }
   ]
 }

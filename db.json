@@ -1,37 +1,38 @@
 {
   "appointments": [
     {
-      "id": 1,
-      "bairro": "Fonte dos matos",
-      "date": "12/04/2023",
-      "name": "Gerlane de Araújo Silva",
-      "numero": "42",
-      "rua": "rua Manoel Jovina",
-      "start": "Wed Mar 22 2023 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-      "time": "16:00",
-      "title": "Nova Consulta Gerlane de Araújo Silva"
+      "title": "Evento importante",
+      "start": "022-03-30T14:00:00",
+      "end": "2022-03-30T16:00:00",
+      "allDay": false,
+      "extendedProps": {
+        "description": "Descrição do evento",
+        "location": "Local do evento"
+      },
+      "otherProp": "Outra propriedade"
     },
     {
-      "id": 2,
-      "bairro": "Fonte dos matos",
-      "date": "22/03/2023",
-      "name": "Carlos Henrique da Costa",
-      "numero": "42",
-      "rua": "rua Manoel Jovina",
-      "start": "Wed Mar 22 2023 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-      "time": "08:00",
-      "title": "Nova Consulta Carlos Henrique da Costa"
+      "title": "Evento importante",
+      "start": "022-03-27T14:00:00",
+      "end": "2022-03-30T16:00:00",
+      "allDay": false,
+      "extendedProps": {
+        "description": "Descrição do evento",
+        "location": "Local do evento"
+      },
+      "otherProp": "Outra propriedade"
     },
-    
+
     {
-      "bairro": "Fonte dos matos",
-      "date": "30/03/2023",
-      "name": "clarice Silva da Costa",
-      "numero": "42",
-      "rua": "rua Manoel Jovina",
-      "start": "Wed Mar 22 2023 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
-      "time": "14:00",
-      "title": "Nova Consulta clarice Silva da Costa"
+      "title": "Evento importante",
+      "start": "022-03-26T14:00:00",
+      "end": "2022-03-30T16:00:00",
+      "allDay": false,
+      "extendedProps": {
+        "description": "Descrição do evento",
+        "location": "Local do evento"
+      },
+      "otherProp": "Outra propriedade"
     }
   ]
 }

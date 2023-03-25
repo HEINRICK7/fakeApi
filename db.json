@@ -5,11 +5,11 @@
       "start": "2023-03-30T03:00:00.000Z",
       "allDay": false,
       "extendedProps": {
-        "time": "selectedTime",
-        "name": "name",
-        "rua": "rua",
-        "bairro": "bairro",
-        "numero": "numero"
+        "time": "10:00",
+        "name": "Gerlane Araújo",
+        "rua": "rua manoel Jovina",
+        "bairro": "Fonte dos Matos",
+        "numero": "42"
       },
       "otherProp": "Outra propriedade"
     },
@@ -18,11 +18,11 @@
       "start": "2023-03-28T03:00:00.000Z",
       "allDay": false,
       "extendedProps": {
-        "time": "selectedTime",
-        "name": "name",
-        "rua": "rua",
-        "bairro": "bairro",
-        "numero": "numero"
+        "time": "15:30",
+        "name": "Clarice Costa",
+        "rua": "rua Francisco Jovina",
+        "bairro": "Fonte dos Matos",
+        "numero": "142"
       },
       "otherProp": "Outra propriedade"
     },
@@ -32,11 +32,11 @@
       "start": "2023-03-26T03:00:00.000Z",
       "allDay": false,
       "extendedProps": {
-        "time": "selectedTime",
-        "name": "name",
-        "rua": "rua",
-        "bairro": "bairro",
-        "numero": "numero"
+        "time": "16:45",
+        "name": "Carlos Henrique",
+        "rua": "rua Telles Jovina",
+        "bairro": "Fonte dos Matos",
+        "numero": "420"
       },
       "otherProp": "Outra propriedade"
     }

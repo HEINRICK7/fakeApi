@@ -5,8 +5,11 @@
       "start": "2023-03-30T03:00:00.000Z",
       "allDay": false,
       "extendedProps": {
-        "description": "Descrição do evento",
-        "location": "Local do evento"
+        "time": "selectedTime",
+        "name": "name",
+        "rua": "rua",
+        "bairro": "bairro",
+        "numero": "numero"
       },
       "otherProp": "Outra propriedade"
     },
@@ -15,8 +18,11 @@
       "start": "2023-03-28T03:00:00.000Z",
       "allDay": false,
       "extendedProps": {
-        "description": "Descrição do evento",
-        "location": "Local do evento"
+        "time": "selectedTime",
+        "name": "name",
+        "rua": "rua",
+        "bairro": "bairro",
+        "numero": "numero"
       },
       "otherProp": "Outra propriedade"
     },
@@ -26,8 +32,11 @@
       "start": "2023-03-26T03:00:00.000Z",
       "allDay": false,
       "extendedProps": {
-        "description": "Descrição do evento",
-        "location": "Local do evento"
+        "time": "selectedTime",
+        "name": "name",
+        "rua": "rua",
+        "bairro": "bairro",
+        "numero": "numero"
       },
       "otherProp": "Outra propriedade"
     }

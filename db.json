@@ -2,7 +2,7 @@
   "appointments": [
     {
       "title": "Evento importante",
-      "start": "2022-03-30",
+      "start": "2023-03-30T03:00:00.000Z",
       "allDay": false,
       "extendedProps": {
         "description": "Descrição do evento",
@@ -12,7 +12,7 @@
     },
     {
       "title": "Evento importante",
-      "start": "2022-03-27",
+      "start": "2023-03-28T03:00:00.000Z",
       "allDay": false,
       "extendedProps": {
         "description": "Descrição do evento",
@@ -23,7 +23,7 @@
 
     {
       "title": "Evento importante",
-      "start": "2022-03-26",
+      "start": "2023-03-26T03:00:00.000Z",
       "allDay": false,
       "extendedProps": {
         "description": "Descrição do evento",

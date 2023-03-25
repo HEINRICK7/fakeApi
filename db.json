@@ -18,7 +18,7 @@
       "start": "2023-03-28T03:00:00.000Z",
       "allDay": false,
       "extendedProps": {
-        "time": "15:30",
+        "time": "15:00",
         "name": "Clarice Costa",
         "rua": "rua Francisco Jovina",
         "bairro": "Fonte dos Matos",
@@ -26,13 +26,38 @@
       },
       "otherProp": "Outra propriedade"
     },
-
+    {
+      "title": "Evento importante",
+      "start": "2023-03-28T03:00:00.000Z",
+      "allDay": false,
+      "extendedProps": {
+        "time": "10:00",
+        "name": "Clarice Costa",
+        "rua": "rua Francisco Jovina",
+        "bairro": "Fonte dos Matos",
+        "numero": "142"
+      },
+      "otherProp": "Outra propriedade"
+    },
+    {
+      "title": "Evento importante",
+      "start": "2023-03-28T03:00:00.000Z",
+      "allDay": false,
+      "extendedProps": {
+        "time": "11:00",
+        "name": "Clarice Costa",
+        "rua": "rua Francisco Jovina",
+        "bairro": "Fonte dos Matos",
+        "numero": "142"
+      },
+      "otherProp": "Outra propriedade"
+    },
     {
       "title": "Evento importante",
       "start": "2023-03-26T03:00:00.000Z",
       "allDay": false,
       "extendedProps": {
-        "time": "16:45",
+        "time": "16:00",
         "name": "Carlos Henrique",
         "rua": "rua Telles Jovina",
         "bairro": "Fonte dos Matos",
